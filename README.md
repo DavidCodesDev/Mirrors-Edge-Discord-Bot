@@ -9,17 +9,21 @@ Run node bot.js in the commandline to start, don't forget to create your own aut
 
 Feature showcase:
 The bot logs in when you initialize it in the commandline with ''node bot.js''
+
 ![Image](https://i.imgur.com/JFWP9Mj.png)
 
 Every X seconds, the bot throws a bag of any rarity, the user types !grab to grab the runnerbag.
+
 <img src="https://i.imgur.com/En0azNt.gif"/>
 
 Rarer bags:
+
 <img src="https://i.imgur.com/9ywQDeI.gif"/>
 
 By typing !runners, you can see the leaderboard, you get a special mirrors edge themed role according your number of points
 
 Quick commands to bring up all sorts of mirrors edge related images:
+
 <img src="https://i.imgur.com/UOJph6B.gif"/>
 
 
